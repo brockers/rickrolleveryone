@@ -1,0 +1,27 @@
+{
+  "name": "rickrolleveryone",
+  "version": "1.0.0",
+  "description": "Chromecast script to rickroll and entire network",
+  "main": "test.js",
+  "dependencies": {
+    "chromecasts": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brockers/rickrolleveryone.git"
+  },
+  "keywords": [
+    "chromecast",
+    "rick-roll"
+  ],
+  "author": "Bobby Rockers <bob@ai-sys.com> (http://github.com/AutomationIntegrated)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brockers/rickrolleveryone/issues"
+  },
+  "homepage": "https://github.com/brockers/rickrolleveryone#readme"
+}
